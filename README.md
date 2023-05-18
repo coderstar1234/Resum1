@@ -5,8 +5,7 @@
 
 <h1 align="center"> Preview</h1>
 
-
-To view the resume, follow these steps:
+<h2 align="center">To view the resume, follow these steps:</h2>
 
 1. Clone the repository to your local machine using the following command:
 git clone https://github.com/your-username/resume-website.git
