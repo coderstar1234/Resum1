@@ -27,7 +27,7 @@ Copy code
 
 Feel free to customize the content and styling of the resume to match your own personal details and preferences. You can modify the `resume.html` file using any text editor or HTML editor of your choice.
 
-## License
+<h1 align="center">License</h1>
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
 
