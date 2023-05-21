@@ -21,7 +21,7 @@
 <div align="center" >
 
 <img height="100" wedith="100" src="https://cdn.dribbble.com/users/1144208/screenshots/2655434/week6---git-scared.gif"></div>
-1. Clone the repository to your local machine using the following command:
+
 git clone https://github.com/your-username/resume-website.git
 
 css
