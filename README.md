@@ -24,7 +24,7 @@
 
 <h3 align="center"> git clone:-</h3>https://github.com/yourusername/resume-website.git
 
-css
+<h3 align="center"> css:</h3>
 Copy code
 
 2. Navigate to the project directory:
