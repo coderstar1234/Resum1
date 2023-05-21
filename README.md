@@ -22,7 +22,7 @@
 
 <img height="100" wedith="100" src="https://cdn.dribbble.com/users/1144208/screenshots/2655434/week6---git-scared.gif"></div>
 
-git clone https://github.com/your-username/resume-website.git
+<h3 align="center"> git clone:-</h3>https://github.com/yourusername/resume-website.git
 
 css
 Copy code
