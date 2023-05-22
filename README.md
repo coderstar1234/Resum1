@@ -37,7 +37,7 @@ cd resume-website
 
 4. The resume will open in the web browser, allowing you to browse through the sections and view my education, experience, and skills.
 
-<h1 align="center">Customization</h1>
+<h1 align="center">Customization:-</h1>
 
 - Feel free to customize the content and styling of the resume to match your own personal details and preferences.
 -  You can modify the `resume.html` file using any text editor or HTML editor of your choice.
