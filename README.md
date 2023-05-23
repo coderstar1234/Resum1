@@ -46,7 +46,7 @@ cd resume-website
 
 - This project is licensed under the [MIT License](LICENSE).
 -  You are free to use, modify, and distribute the code as per the terms of the license.
-
+<hr>
 <h1 align="center">Acknowledgements:-</h1>
 
 - I would like to acknowledge the resources and tutorials that helped me in building this resume website.
