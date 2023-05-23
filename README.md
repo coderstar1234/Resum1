@@ -52,3 +52,4 @@ cd resume-website
 - I would like to acknowledge the resources and tutorials that helped me in building this resume website.
 -  Special thanks to XYZ tutorial for their CSS layout guide and ABC coding blog for their HTML structure tips.
 - If you have any suggestions or feedback, please feel free to reach out to me.
+<hr>
