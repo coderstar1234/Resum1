@@ -3,7 +3,7 @@
 - This repository contains the code for my online resume, built using HTML and CSS.
 -  The resume is designed to showcase my education, experience, and skills in a clear and organized manner.
 <hr>
-<h1 align="center"> Preview:-</h1>
+<h1 align="center"> Preview💫:-</h1>
 
 <h2 align="center">To view the resume, follow these steps:-</h2>
 <h1 align="center"> Installation:-</h1>
