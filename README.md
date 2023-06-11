@@ -31,7 +31,7 @@
 2. Navigate to the project directory:
 cd resume-website
 
-<h3 align="center"> vbnet:</h3>
+<h3 align="center"> vbnet:📑</h3>
 <h4 align="center"> Copy code:- </h4>
 
 3. Open the `resume.html` file in a web browser. You can do this by either double-clicking the file or using the browser's "Open File" option.
