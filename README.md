@@ -16,7 +16,7 @@
 
  <h2 align="center"> follow these steps:</h2>
 
-<h3 align="center"> Clone the repository from GitHub.:-</h3>
+<h3 align="center"> Clone the repository from GitHub.🔑:-</h3>
 
 <div align="center" >
 
